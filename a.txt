@@ -1,9 +1,0 @@
-Khushboo Gupta
-14BCS023
-:)
-Cse(5th Sem)
-<<<<<<< HEAD
-:D
-=======
-:P
->>>>>>> kg_05
